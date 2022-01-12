@@ -1,3 +1,0 @@
-C:/Users/tanak/OneDrive/Documents/3 Ano/PP/Area_geometricas/cmake-build-debug/CMakeFiles/Area_geometricas.dir
-C:/Users/tanak/OneDrive/Documents/3 Ano/PP/Area_geometricas/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/tanak/OneDrive/Documents/3 Ano/PP/Area_geometricas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
